@@ -6,7 +6,6 @@ export default [
     {text: "Installation", link: "/guide/installation"},
     {
         text: "Tuning",
-        collapsed: false,
         items: [
             {
                 text: 'Velocity Tuner',
