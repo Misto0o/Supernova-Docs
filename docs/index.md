@@ -15,10 +15,11 @@ hero:
 ---
 
 <div id="content-holder-long" class="body-style">
+<h1> Why you should choose Apex Pathing </h1>
   <div id="flex-box-grid" data-role="flex-hoverable" class="body-style">
     <div>
-      <h1>This is an example</h1>
-      <h3>This is an example</h3>
+      <h1>We Aren't Going Anywhere.</h1>
+      <h3>Pedropathing is becoming harder to use, almost like a legacy. We wanted to improve pedro and allow newer people to understand it.</h3>
     </div>
     <div>
         <h1>This is an example</h1>
@@ -48,9 +49,9 @@ hero:
   <p>Insert information here</p>
 </div>
 
-<div id="content-holder-long" class="information-container">
-  <h1>Documentation</h1> 
-  <p>Insert information here</p>
+<div id="content-holder-long" class="body-style">
+  <h1>Quintic Spline Based Pathing</h1> 
+  <p>We use Quintic Splins to do [INFORMATION]</p>
 </div>
 
 <div id="content-holder-long" class="idk-container">
@@ -67,6 +68,27 @@ hero:
     </div>
   </div>
 </div>
+
+
+<div id="content-holder-long" class="body-style">
+  <h1>Welcome to Apex Pathing</h1> 
+  <p>Insert information here</p>
+</div>
+
+<div id="content-holder-long" class="information-container">
+  <h1>Documentation</h1> 
+  <p>Insert information here</p>
+</div>
+<div id="content-holder-long" class="idk-container">
+  <div id="flex-box-grid" class="idk-container">
+    <div id="right-side">
+      <div id="contain">
+        <h1 style="text-align: center"> Documentation Information </h1>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <style>
    #flex-box-grid {
